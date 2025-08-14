@@ -2,7 +2,7 @@
 
 ## 📌 Objective
 This repository serves as a central hub to store and showcase the projects I have developed during my time at **Universidad de La Sabana**.  
-Each project reflects the skills, knowledge, and experience I have gained throughout my studies in **Computer Engineering**.
+Each project reflects the skills, knowledge, and experience I have gained throughout my studies in **Informatics Engineering**.
 
 ## 📂 Contents
 The repository contains projects from various university courses, such as:
